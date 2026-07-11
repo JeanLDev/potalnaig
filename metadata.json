@@ -1,0 +1,5 @@
+{
+  "name": "ClinicaPro Panel",
+  "description": "Painel de gestão para profissionais de clínica, com agenda, comissões e gestão de pacientes.",
+  "requestFramePermissions": []
+}
